@@ -66,7 +66,7 @@ GitHub Push → GitHub Actions → S3 + CloudFront Invalidate
 
 ---
 
-## 🚀 How to Deploy
+##  How to Deploy
 
 ### 1️⃣ Create S3 Buckets
 - One for **feedback PDFs**
