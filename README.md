@@ -1,6 +1,6 @@
 # 📦 Serverless Feedback Form on AWS with automation via GitHub action CI/CD
 
-Build a **real-world, serverless AWS project** that lets users submit feedback with optional PDF uploads — and delivers admin alerts, secure storage, and auto-deployment. This project is perfect for AWS learning path, or production use case.
+Serverless Feedback Form on AWS is a fully automated, real-world web application that enables users to submit feedback with optional PDF attachments. The backend is powered by AWS Lambda and API Gateway, with feedback data stored in DynamoDB, files securely uploaded to Amazon S3, and admin notifications sent via Amazon SES. The frontend is hosted on S3 and distributed globally through Amazon CloudFront for low latency. A GitHub Actions CI/CD pipeline automates frontend deployment and CloudFront cache invalidation, ensuring continuous delivery and seamless updates. This project demonstrates modern serverless architecture, secure data handling, and cloud automation best practices on AWS.
 
 ---
 
@@ -140,4 +140,13 @@ jobs:
 - CI/CD with GitHub Actions
 
 ---
+![project screenshots](<Screenshot (198).png>) 
+
+![project screenshots](<Screenshot (196).png>)
+
+![project screenshots](<Screenshot (195).png>)
+
+![project screenshots](<Screenshot (202).png>)
+
+![project architecture](<Screenshot (161).png>)
 
